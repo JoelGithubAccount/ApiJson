@@ -6,7 +6,7 @@
   ],
   "Produc": [
     { "id": 1, "name": "pozole", "CustomerId": 1 },
-    { "id": 2, "name": "barbacoa", "CustomerId": 1 }
+    { "id": 2, "name": "barbacoa", "CustomerId": 1 },
   ],
   "Order": {
     "name": "orden"
