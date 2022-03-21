@@ -2,7 +2,7 @@
   "Customer": [
     { "id": 1, "name": "Joel", "age": 21},
     { "id": 2, "name": "Pedro", "age": 24},
-    { "id": 3, "name": "Pablo", "age": 16}
+    { "id": 3, "name": "Pablo", "age": 16},
     { "id": 4, "name": "Roberto", "age": 26}
   ],
   "Produc": [
